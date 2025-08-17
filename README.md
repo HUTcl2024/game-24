@@ -58,7 +58,7 @@
 运行测试用例：
 ```bash
 python -m unittest -v
-或通过游戏菜单选择"运行测试用例"选项。
+或通过游戏菜单选择"运行测试用例"选项。```
 
 ### 🤝 贡献
 欢迎提交 Issues 和 Pull Requests！
